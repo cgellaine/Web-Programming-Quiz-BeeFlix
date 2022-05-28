@@ -1,0 +1,17 @@
+.card-img-top:hover{
+    opacity: 0.9;
+}
+
+.btn:hover{
+    opacity: 0.7;
+}
+
+#genre:hover{
+    color: #DB8B8B;
+    opacity: 0.9;
+}
+
+#genres:hover{
+    color: #1181FA;
+    opacity: 0.9;
+}
